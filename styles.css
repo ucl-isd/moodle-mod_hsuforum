@@ -1065,7 +1065,3 @@ li.activity.modtype_hsuforum .activityiconcontainer,
     background-color: #8bc34a;
 }
 
-li.activity.modtype_hsuforum .activityiconcontainer img.activityicon,
-.modchoosercontainer div[data-internal="hsuforum"] .modicon_hsuforum img.activityicon {
-    filter: brightness(0) invert(1);
-}
